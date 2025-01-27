@@ -43,7 +43,7 @@ The project demonstrates robust error handling, efficient worker management, and
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/pushkarup/office-email-validator.git
+git clone https://github.com/pushkarup/office-email-validator
 cd office-email-validator
 ```
 
